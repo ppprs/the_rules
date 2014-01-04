@@ -138,11 +138,14 @@ This is a very new and very awesome section of the rules this year. Though we at
 
 You will be impounded into the penalty box and given a really stupid penalty that you have to do when we spin the Wheel-Of-Shame.
 
-### 6.7 | The Spirit of Power Wheel Racing Clause
+### 6.7 | The "Spirit of Power Racing" Clause
+Remember Mystery Science Theater 3000? No? Wait, really? How the hell do you consider yourself a nerd? Anyways, it was a landmark show way back in the ancient 1990’s which featured the premise of a guy and his robot friends who were locked away in a space station and forced to watch crappy movies. Got all that? Okay. Let me get to the point: the show makes no sense, and any attempt to take plot lines seriously were overlooking that the fact that the show was for fun. For these reasons the show's title song featured the phrase “It’s just a show, I should really just relax.” 
 
-#### 6.7.1 | When you complain too much
+That’s really the whole point of this series. We're just a show. We’re here to have fun. Rules will get bent, cars will break, just relax enjoy yourself. If you're reading line by line looking for a 1/10th a second lap timeimprovement, you're going to have a bad time. Aside from safety, not much else really matters. You don't race PPPRS to win, you race til you break. Don’t get too wrapped up or obsessed about podiums, or lap time records. Share tools. Be friends with rival teams. Have rivalries just because it's hilarious. Make friends and be excellent to one another. 
 
-Seriously guys/gals, we are racing kids toys here. If you are complaining too much, you are not having any fun and you are bringing everyone around you down. If you complaining annoys the sanctioning body, we will give you a reason to complain.
+#### 6.7.1 | The "I Ain't Even Mad" Clause
+
+Feel like breaking a rule? We at the PPPRS take this very seriously; we don't like half assing anything. If you are breaking one of our rules, we encourage you to go full ass, above and beyond the call of duty. We don’t want cheap and sneaky exploits, we want clever. Want to make a 6 wheel racing power wheel? Awesome. DRS inspired SuperCap Must-Go-Faster button? Awesome. So if you feel like taking things too seriously we want you to build something so blissfully impressive, so Adrian Neweyesue clever, or downright SpeedyCop crazy that your rule infraction gets a “I’m not even mad, I’m impressed” reaction from our judges.
 
 
 ## 7 | The Race Schedule
