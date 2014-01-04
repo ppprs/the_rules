@@ -1,4 +1,4 @@
-# 2013 Rules
+# 2014 Rules
 
 ## 1 | Teams
 ### 1.1 | Team Structure
