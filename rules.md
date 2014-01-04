@@ -145,36 +145,36 @@ You will be impounded into the penalty box and given a really stupid penalty tha
 Seriously guys/gals, we are racing kids toys here. If you are complaining too much, you are not having any fun and you are bringing everyone around you down. If you complaining annoys the sanctioning body, we will give you a reason to complain.
 
 
-## 7 | The 2013 Race Schedule
+## 7 | The Race Schedule
 
-The 2013 Power Racing Series is upon us and here's the first official look at our upcoming race schedule.
+The 2014 Power Racing Series is upon us and here's the first official look at our upcoming race schedule.
 
 
-**PPPRS WEST DIVISION**
+**WEST DIVISION**
 
-*   May 18-19 Bay Area @ San Mateo
+*   Maker Faire San Mateo, CA Saturday & Sunday May 17th & 18th, 2014
    
-    Special one-off exhibition race featuring all new teams from the West Coast in the biggest Maker Faire on the calendar. Special guest judge Jay Lamm from the 24 Hours of Lemons series will invent penalties for the teams on the spot.
+    First race of the regular calendar year. Winner of the race weekend is invited to compete in NYC (pending they can find a way to get there-- sorry, we just don't have enough funds to do this ourselves yet) This race features a slightly different format than any other PPPRS. We work alongside our pedal car friends from Fun Bike Unicorn Club. Race weekend is typical 2 heats + Endurance including a Pedal vs. Power round where our PPPRS entries race against the FBUC teams. Track is usually an oval, or a tight rectangle with a heavy braking chicane.
 
-**PPPRS MIDWEST/EAST DIVISION**
+**CENTRAL DIVISION**
 
-*   June 29-30 Kansas City @ Union Station
+*   Maker Faire Kansas City, KC Saturday & Sunday Date TBA
 
-    First round of the series takes a trip to KC's gorgeous Union Station. Expect the track to be tight, slow corners followed by mid-length straits. The cars with the best handling will show great promise here.
+    First round of the central division series  Expect the track to be tight, slow corners followed by mid-length straits. The cars with the best handling will show great promise here.
 
-*   July 27-28 Detroit @ The Henry Ford Museum
+*   Maker Faire Detroit, Dearborn, MI Saturday & Sunday Date TBA
 
     Our Landmark race returns yet again! The Detroit circuit is a bumpy high speed affair that will challenge driver skill more than anything else. The track usually features long sweeping corners that necessitate finesse and driver rhythm.
 
-*   September 14-15 Fort Wayne @ TekVenture Indiana
+*    Maker Faire Fort Wayne, IN, Saturday September 14th, 2014
 
-**PPPRS EAST DIVISION**
 
-*   FINAL ROUND
+**EAST DIVISION**
 
-    Grand Finale: Sept 28-29 New York, NY
+*	Charlotte, NC Saturday, June 9th, 2014
 
-                 
+*	NYC World Maker Faire, Queens, NY, Saturday & Sunday September 20th & 21st, 2014
+          
 
 ## 8 | Points: How do they work?
 
