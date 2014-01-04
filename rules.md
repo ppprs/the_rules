@@ -36,7 +36,7 @@ The total allowable budget for any individual vehicle is $500 USD. This includes
 ## 2 | Vehicles
 ### 2.1 | Permitted Types of Vehicles
 
-No matter where a team purchases its vehicle (Toys R, Us, craigslist, France, or you stole it) it must conform to PPPRS standards of purchase.
+No matter where a team purchases its vehicle (Toys R, Us, craigslist, France, or you stole it) it must conform to PPPRS standards of purchase. Vehicles are permitted a wide variety of creativity, but at the same time conform to the limitations in this section. Inspections in regards to battery tech, powertrain, and safety will be throrough by our Sanctioning Body Judges. The judges will be the final say in the legality of your car, regardless of how legal you think it is; so be nice.
 
 ### 2.2 | So What Constitutes a "Power Racer?"
 
@@ -84,10 +84,10 @@ No vehicle may have a total peak power consumption of greater than 1440 watts. T
 * 24v = 60A Fuse
 * 12v = 120A Fuse  
 
-If for whatever reason your machine operates on some funky voltage, your fuse will round down to the nearest number. Vehicles are required to have a fuse installed between their batteries and their controller. Fuses will be provided to teams from the Sanctioning Body.
+If for whatever reason your machine operates on some funky voltage, your fuse will round down to the nearest number. Vehicles are required to have a fuse installed between their power source and their controller. Fuses will be provided to teams from the Sanctioning Body.
 
 #### 2.7.2 Kill Switch
-A Kill Switch system or a method to immediately cut power must be incorporated in the vehicles. The kill switch MUST be easy to see and easily identifiable by track marshals. We heavily suggest teams to have a giant painfully obvious big red button with massively bold letters clearly labeling the button as a Kill Switch. NOTE: the Kill Switch must not be your "on" switch nor your throttle. Yes, you have to make a separate switch. No, it's not too much to ask of you. Teams are permitted to seek any system necessary to achieve this, and it is up to the teams to implement it. A kill switch will not be part of the $500 budget and it would be really nice if teams that regulary exceed 10mph in a race spared no expense in implementing this. PPPRS officials will request teams to prove that the system functions in pre-race inspection.
+A Kill Switch system or a method to immediately cut power must be incorporated in the vehicles. The kill switch MUST be easy to see and easily identifiable by track marshals. All power has to go through the kill switch. We heavily suggest teams to have a giant painfully obvious big red button with massively bold letters clearly labeling the button as a Kill Switch. NOTE: the Kill Switch must not be your "on" switch nor your throttle. Yes, you have to make a separate switch. No, it's not too much to ask of you. Teams are permitted to seek any system necessary to achieve this, and it is up to the teams to implement it. A kill switch will not be part of the $500 budget and it would be really nice if teams that regulary exceed 10mph in a race spared no expense in implementing this. PPPRS officials will request teams to prove that the system functions in pre-race inspection.
 
 ### 2.8 | Controllers
 
@@ -95,7 +95,7 @@ All motor controller solutions must be directly connected to a dead man switch o
 
 ### 2.9 | Vehicle Size
 
-The vehicle may not exceed 70” long by 40” wide. Seat height may not be lower than the axle height.  Over all height is restricted to 72” including the height of the driver while in the seated position. (These dimensions represent roughly the size of the Jeep Hurricane, the largest Power Wheels vehicle on the market as of 2011)
+The vehicle may not exceed 60” long by 35” wide. Seat height may not be lower than the axle height.  Over all height is restricted to 72” including the height of the driver while in the seated position. (These dimensions represent roughly the size of the Jeep Hurricane, the largest Power Wheels vehicle on the market as of 2014)
 No part of the vehicle may protrude past the dimensions enumerated in this rule.  All vehicles will be measured by track officials before each race.
 Any vehicle disobeying the dimension will be required to conform to the dimensions before it is allowed to race.
 
@@ -114,19 +114,22 @@ Teams will be using transponders for timing and scoring so keep in mind that you
 ## 3 | Safety Eqiupment
 You are not allowed to race on the track without the following equipment. Seriously, we aren’t screwing around with this. These vehicles may be tiny, but they can be very fast. 
 When you get to the track, you are required to present your equipment:
-A DOT approved motorcycle/racing helmet. It is severely recommended to use full face but open face helmets are okay. NOTE: if you drive with open face, DOT goggles are mandatory.If the goggles do nothing, you can’t race. NO Half Helmets. No Bicycle helmets. No damage on helmets. If you have a serious spill in your helmet you are required to replace it. 
-Long Pants and Long shirts. I don’t care how hot it is. Even at 20mph road rash is awful. Knee pads or elbow pads are also required. This depends on your sitting stance and exposure.
-Mechanix gloves. Required by everyone that are on track. Except Jim Burke. He gets to do what he wants. 
-Need to egress your car quickly. 
-
-Brake test mandatory.  We need to come up with a standard brake test. #1 Distance ratio.  Which can be re done at any time.
-2 Brake test race. #3 Speed to stopping distance. #4 Qualifying is hot lap plus lap with full stop. - Preferred method
-
 
 ### 3.1 | Helmets
+A DOT approved motorcycle/racing helmet is required for all drivers. Your drivers can share helmets, but every driver on the track MUST have this helmet. It is severely recommended to use full face but open face helmets are permitted. NOTE: if you drive with open face, DOT goggles are mandatory. If the goggles do nothing, you can’t race. NO Half Helmets. No Bicycle helmets. No damage on helmets. If you have a serious spill in your helmet you are required to replace it. 
+
 ### 3.2 | Driver Attire
+Long pants and long shirts are required. I don’t care how hot it is, we supply plenty of water to the teams. Even at 20mph road rash can be pretty nasty. Knee pads or elbow pads are also required but it depends on your sitting stance and exposure. Mechanix gloves are required for everyone that is on track. We should get a case of them to hand out to people. If teams could pitch in, that would be nice. Except Jim Burke. He gets to do what he wants. 
+
 ### 3.3 | Brake Test
-### 3.4 | Track Marshal Safety
+Qualifying this year will include a mandatory brake test. You can read about this further in the events section but we'll give you a heads up now. Qualifying will be a total of 3 laps: 1 flying lap, 1 full speed lap, and a brake lap where open crossing the finish line the car must stop within 15 ft. If you exceed the 15 ft line, your qualifying lap will not count. If your brakes fail, you will not be permitted on the track until you can successfully complete the brake test. At any point of time during the race weekend the judges reserve the right to readminister a brake test to any team, regardless of prior brake test passing. 
+
+### 3.4 | On-Track Safety
+Yellow flags are important. As a driver you should be familiar with the significance of the color yellow with slowing down. A large truck horn will sound off along with a yellow flag to signify a caution. When a caution comes out all cars are to remain in the same position as one another. No passing is allowed unless notified to do so by a track marshal. Do not accelerate or drive near track marshalls. Keep your eyes peeled for track marshals attempting to clear the track of obstructions. When the horn sounds TWICE regular lap speeds will continue. This will be signified by a green flag. I could not possibly explain this to you easier, yet somehow somebody every year manages to screw this up. Most of you own cars, right? Even if you don't, you could always find a basic traffic tutorial on every other epsisode of Seasame Street. 
+
+### 3.5 | Vehicle Egress
+In the event of an accident, you must be able to leave your vehicle completely in 3 seconds or less. This is to prevent any issues that may arise from potential fires or overheating components. DO NOT build a car that is difficult to get out of. It is permitted for the entrance of a car to be a hastle, as all of us are getting too old for this crap. 
+
 
 ## 4 | Excluded Team Budget Items
 
@@ -260,11 +263,30 @@ Due to our lack of outright originality and our founder’s unquenchable obsessi
 
 Moxie is that little extra spice that levels the playing field. Not only can you win race points, but you can also entice and rile the crowd up and win points from them. It will be the job of your team to find ways to garner audience attention and keep it over your competitors. This is the ultimate pursuit of the weird. Giant boom-box cars, Lucha masked racers, pre-race dance party and confetti cannons are all par for the course. Consider this the social engineering section of your exam. Some teams will write this off, but we at PPPRS think you should take heed: this is where real champions are  crowned. Under develop your car against your rival hackerspace? Easy, gain those points back by dressing up as a chicken. Your odds to win are good if your goods are odd. Consider it Halloween in July, and you have to get more candy bars than that kid next door.
 
-##### 9.2.1.1 | How moxie is counted
+##### 9.2.1.1 | How Moxie is Counted
 
 For every race there is an Arduino-controlled button board that tallies the votes of members of the public. Next to each button is a 6x1.5 inch piece of space that is reserved for your team name and number. You are in charge of making a fancy plaque that occupies this space and thus identifies who you are to the crowd. You can make it as fancy as you’d like, it can be lit up (you’ll have to power it on your own), reflective, as long as it has the name of your team (or hackerspace) and your vehicle number. I won’t begin to lecture you on how many spaces royally screw this bit up. Do not do a last minute on this one because it is the first thing the crowd sees when they are about to vote for you. Nothing like setting your car on fire to the applause of an audience only to realize you used duct tape to identify yourself on there and thus be overlooked.
 
 This board responds to one button press with one second delay. This is so you don’t plant yourself or your teammates out there by the board and just sit on the button all day. It should be noted that this is considered a really lazy and not-creative way to cheat, and thus lame. Don’t be a lame hackerspace. The crowd is instructed to reward your spastic and odd behavior and they get tallied up and normalized to 400 points for every “normal” 100 race points each race. So this season we are not messing around, which means you get to mess around on the track. Moxie this season will be very crucial to victory and thus glorious bragging rights. 
+
+##### 9.2.1.2 | How to Maximize Moxie Points
+300 Bonus (seriously) for the following entry themes. NOTE: these points will be awarded on a sliding scale of effort. (the more time you spend on making these look good, the more points you get. If you duct tape a bunch of cardboard boxes and scream “that’ll do” we will reward you less points):
+
+* Ghostbuster’s Ecto 1 (must have that annoying horn)
+* Jim’s Dad’s old car: 1977 Cadillac Eldorado (should be large enough for its own zip code)
+* Star Wars INCOM X-Wing Starfighter: Luke and R2D2 also needed
+* The Scooby Doo Mystery Machine (costumes required)
+* Any era Batmobile. Double points for Adam West era Batmobile
+* The “Bluth Family car” (stair truck. Google it)
+* KIT (Knight Rider). (Must be trans am body, must have Mr. Feeny’s voice)
+* The A-Team Van (costumes are required, but don’t get racist about it please)
+* Speed Racer’s Mach 5. Cartoon or film are allowed.
+* Bruce Willis floating Taxi Cab from The Fifth Element. (The more realistic that floating bit is, the better.)
+* The bus from SPEED. Bus has to have a passenger. And a watch.
+* Tiny replica Formula 1 car. Specifically the 1976 Tyrrel P34 Six Wheeler.
+* Car built entirely out of LEGO
+
+
 
 
 ## A | Trophies and Awards
