@@ -54,7 +54,7 @@ Driver must be 16 years of age and have a valid drivers license. If under age of
 
 ### 2.4 | Wheels
 
-All vehicles are permitted to use third party wheels and hubs for their PPPRS vehicle.  PPPRS restricts the use of slick tires and any other performance racing tread. Performance go-kart wheels will be prohibited from use on vehicles. During pre-race inspection if a PPPRS official determines that the wheel modifications to be potentially harmful to drivers, they will be asked to remove modifications or risk disqualification (see vehicle decoration limitations). There are no limitations to how the wheels can be modified to connect the chassis (internally or externally) as long as power to the ground is derived from these wheels and hubs. If you are paying attention this also indirectly means no jet propulsion.
+All vehicles are permitted to use third party wheels and hubs for their PPPRS vehicle. Vehicles must be constructed with at minimum three functional wheels that remain in constant contact with the ground under normal operation. Wheels are not permitted to be inline. PPPRS restricts the use of slick tires and any other performance racing tread. Performance go-kart wheels are prohibited from use on vehicles. During pre-race inspection if a PPPRS official determines that the wheel modifications to be potentially harmful to drivers, they will be asked to remove modifications or risk disqualification (see vehicle decoration limitations). There are no limitations to how the wheels can be modified to connect the chassis (internally or externally) as long as power to the ground is derived from these wheels and hubs. If you are paying attention this also indirectly means no jet propulsion.
 
 ### 2.5 | Battery
 
@@ -99,15 +99,18 @@ The vehicle may not exceed 60” long by 35” wide. Seat height may not be lowe
 No part of the vehicle may protrude past the dimensions enumerated in this rule.  All vehicles will be measured by track officials before each race.
 Any vehicle disobeying the dimension will be required to conform to the dimensions before it is allowed to race.
 
-### 2.A | Team Secrets
+### 2.A | Bumpers
+Power Racing entries to say the least are insanely different. It seems that no matter what restrictions I place on them series you meddling teams find ways to be precious little snowflakes. There is however one thing that needs to be the same bumper height. All teams are required to have some sort of front and rear bumper-like structure that is between 4 and 6 inches high. The bumpers should be firmly attached (or welded) to your frame. We strongly encourage teams to soften the edges of the bumpers up in some way, perhaps using strips of rubber. I don't know. Do what you want. Just makes sure they are there. The track marshals are getting tired of having to pry cars off of each other during collisions. 
+
+### 2.B | Team Secrets
 
 To avoid the issue of race-day disqualification please contact the Sanctioning Body in advance, before race day, to inquire if such modifications are legal.  Modifications that are “team secret” will be kept at discretion of PPPRS and will not be shared with other teams.
 
-### 2.B | Vehicle Decoration And Engineering Modifications
+### 2.C | Vehicle Decoration And Engineering Modifications
 
 Teams are encouraged to be imaginative when decorating and modifying their vehicles However each team should take into careful consideration the potential of injuries or damage caused by external decorative items. Though this severely hampers the creation of any “Mad Max” team cars we do not permit spears or any other form of weaponry on the car that could cause actual harm. Specifically prohibited are any decorative items that are sharp, pointed, obscuring, fragile, or that would otherwise cause injury or damage to the driver or other drivers and their respective vehicles during routine vehicle-to-vehicle contact or crashes. This rule also applies to structural, drivetrain or steering modifications to vehicles. PPPRS officials reserve the right to prohibit a vehicle from entering any race if the vehicle is deemed to be a hazard to its driver, other drivers and their vehicles or spectators. By submitting an entry into the PPPRS you forgo your right to get butthurt over this. If your car is unsafe, it is your team’s responsibility to bring it to spec. And one more time, no BB guns permitted. You’ll shoot your eye out.
 
-### 2.C | Transponder
+### 2.D | Transponder
 
 Teams will be using transponders for timing and scoring so keep in mind that you want to build your machines to accommodate a clear line directly vertical line of sight at or near the very front of your vehicle. Transponders must be faced upwards. Ensure to notify your drivers that this line-of-sight must be preserved when traveling under our timing bridge at the start/finish line or your lap will not be recorded. Baring that, the transponders are nice, simple and dependable. They will also cost you $20 to rent per race or $50 for the entire season (we accept credit card and paypal). After you pay for a $50 rental the transponder is yours to keep. Full tech details will be provided on race day. Just be prepared to attach this to your vehicle.
 
@@ -141,7 +144,7 @@ The $500 budget does NOT include the cost for safety equipment or safety feature
 
 In the event that PPPRS, or if a majority of teams believe a team has greatly exceed $500 they will be deemed suspect and are at risk of a PPPRS buyout. PPPRS officials comprising of our team-submitted volunteers, and event organizers will determine if teams have exceeded the budget and hold all rights to purchase a team’s suspected vehicle for $500.  Entry into an event a team consents that their vehicle could be bought out at the end of the event for $500. So don’t throw a fit if this actually happens. A team may redeem their car if they agree to remove the suspect expensive component(s) and re-enter in the next event.
 
-If the panel of officials determine the car to infringe on certain rules, or possibly bend said rules to a position that is beyond “the spirit of the series” then a completely abstract and time consuming penalty will be administered. This penalty will most likely be made on the spot, and would require considerable bribery (re: donations to the series) to lift. Still reading these? Go7od. There’s more of that sort of tomfoolerly further down the list.
+If the panel of officials determine the car to infringe on certain rules, or possibly bend said rules to a position that is beyond “the spirit of the series” then a completely abstract and time consuming penalty will be administered. This penalty will most likely be made on the spot, and would require considerable bribery (re: donations to the series) to lift. Still reading these? Good. There’s more of that sort of tomfoolerly further down the list.
 “Spirit of the Series” is a summary of the goals of the PPPRS and represents the key tenets that champion fairness in the series and the overall point that no one should take this too seriously. Please see “Spirit of the Series” for further drilling of this concept into your damn clever-yet-stubborn-as-hell brains.
 
 ## 6 | Vehicle/Team Sponsorship
@@ -150,26 +153,20 @@ Team sponsorships are allowed, and at each team’s discretion. However, an enti
 
 
 ## 7 | Race Rules & Event Information
-### 7.1 | Changes for race rules additions:
+### 7.1 | The Races:
 
-* NYC finale zeroes out all points. Winner take all race. Top three finishers in west division go to finals
-* one major trophy per team
-* qualifying lap to include stopping part at end of lap
-* slower than 10mph cars will have exceptions to rule, but only on case by case basis.
-* race inspection using volunteeers and peer-reviewed system
-* if you fail to build a safe car you are given a stock power wheel to race until you fix your ride
-* drift challenge replaces drag race
-* wheel of misfortune
+#### 7.1.1 | Qualifying Lap & Brake Test
 
-### 7.2 | Quals Races
+The qualifying race will consist of three laps, one warm up lap, one flying timed lap and a brake test lap.  You will set out from the pit lane, when you cross the Start/Finish line the clock starts. Make it quick because you usually have only one shot at this. After you finish your high speed lap continue at full speed until you get to the start/finish line. Once crossing, hit the brakes as hard as you can and stop within 15 feet. If you stop beyond this distance, you erase your awesome lap time. You can attempt again but if you are unable to stop under 15 feet you will be disqualified from competition until you can pass qualifying. So make sure your car has good brakes, because this year it doesn't matter how fast it is. 
 
-The qualifying race will consist of one flying timed lap.  You will set out  from the pit lane, when you cross the Start/Finish line the clock starts. Make it quick because you only have one shot at this.
+#### 7.1.2 | The Moxie Challenge
+Each team is required to perform 2 minute (or less) sketch using their team members and vehicles to entertain the crowd. You will be voted on by a group of 3 kids on an Olympic scale of 0-10. These points will be tallied up and added directly to your score, in the same way the race points are awarded by finishing position. Yes, this is decided by children. Yes, you can bribe them. Candy seems to work really well, but only in small doses. Please don't throw candy. Really. Teams in the past have developed very elaborate in sketches, including dressing up fighting fire breathing dragons to simple things like an awesome tug of war between them and their power wheel. It is literally up to you to figure this out. You can select a song to go along with your team but that music must be submitted ahead of time (the morning of) otherwise the sanctioning body won't be bothered to do it. 
 
-### 7.3 | The Road Course Heats
+#### 7.1.3 | The Road Course "Heats"
 
 The Road Course event consists of 4 races of 15 laps each.  The first two races/heats are not for points but a qualifying round.  The two heats will split the field of vehicles as evenly as possible. The top winners in each heat will then race in the “Go Fast” final. These vehicles will be racing for the top race points.  The bottom half of the heats will race in the “Go Big” final.  They will be racing for what's left of the race points and as much Moxie as they can muster. Seriously go BIG. This is a great chance to make up any lost points from your slowmobile. You have 15 laps, make it count. Moxie will be still accrued throughout all 4 races but tallied only after the finals have completed. This will ensure that a  race points and possible moxie points are distributed evenly.
 
-### 7.4 | The Enduro
+#### 7.1.4 | The 75-Minute Enduro
 
 The endurance race will be 75 minutes of racing glory.  This is a true test of driver skill and vehicle build.  The start of the race will be a LeMans style start. The race will start with the vehicles lined up in the order of their current standing that weekend.  The racers will line up away from their vehicles at a predetermined location.  At the start of the race the drivers will run to their vehicles and take off. During the endurance race a brand new and slightly annoying Relay Race will occur. Every 15 minutes a siren/horn will sound off and all cars are required to race back to the pits and switch drivers with somebody on their team. You HAVE TO PIT regardless if you just pitted 2 laps before. So try to time your pits accordingly. You may not reverse course if you just past pit lane. You cannot drive the wrong way up pit lane.  If you just passed pit lane, finish your lap and enter pit lane when you come around again.  It does not matter where you find your other drivers as long as they are of legal driving age and are not the same driver from the previous stint. If you are low on people and have multiple cars they can both trade places, just as long as nobody shares the same car two times in a row. Creative and fast pit times will be rewarded with overtakes in the pit lane. Anything goes as long as you do not actively prevent other teams from switching their drivers
 
@@ -177,16 +174,15 @@ The endurance race will be 75 minutes of racing glory.  This is a true test of d
 
 This is a very new and very awesome section of the rules this year. Though we at the PPPRS openly encourage a few bits of rough racing, we want you to be safe too. Legally, we are supposed to care about your well being, so don’t mess that up for us. This is a nice thing we have going here, and we don’t want your broken bones to be the reason we can’t set ourselves on fire. With that in regards, we do want to make sure you don’t completely alienate yourself from everyone by being a self-righteous ram-a-saurous-wrecks that just makes everyone’s day worse. So when you drive a bit hot and bothered we will drop the ban hammer on you, and here’s the list of awesome things we’ll do that will annoy you and make us laugh for hours and hours at your expense.
 
-### 7.6 | Boo-Hoo Box
+#### 7.5.1 | The Grim Reaper
+Ah yes. This is what will keep you in line this year. Each race the Grim Reaper will tote a black flag and will have supreme reign over the track. The Grim Reaper's job is to pick out violators. Grim Reaper word is law. There is no arguing with the Grim Reaper. There's no reasonsing with the Grim Reaper. The Grim Reaper was born from these rules and you shall worship the Grim Reaper. Some say the Grim Reaper will regulate driver conduct. Others say the Grim Reaper will make sure you are following the tech rules and abiding to our safety standards. THE GRIM REAPER CONTROLS YOUR LIFE AND YOUR PENALTIES. THE GRIM REAPER DOES NOT CARE HOW HARD YOU WORKED THE GRIM REAPER ONLY KNOWS WHEN IT IS YOUR TIME TO FEEL JUSTICE. You pray that the Grim Reaper follows by the rules, and does not alter them further. If the Grim Reaper sees you do a misdeed, your car will will be impounded into the penalty box and given a really stupid penalty that you have to do when the Grim Reaper spins the Wheel-Of-Shame. OBEY THE GRIM REAPER. DONT FEAR THE REAPER. WAIT, TOTALLY FEAR THE REAPER. INSERT MORE COWBELL HERE.
 
-You will be impounded into the penalty box and given a really stupid penalty that you have to do when we spin the Wheel-Of-Shame.
-
-### 7.7 | The "Spirit of Power Racing" Clause
+#### 7.5.2 | The "Spirit of Power Racing" Clause
 Remember Mystery Science Theater 3000? No? Wait, really? How the hell do you consider yourself a nerd? Anyways, it was a landmark show way back in the ancient 1990’s which featured the premise of a guy and his robot friends who were locked away in a space station and forced to watch crappy movies. Got all that? Okay. Let me get to the point: the show makes no sense, and any attempt to take plot lines seriously were overlooking that the fact that the show was for fun. For these reasons the show's title song featured the phrase “It’s just a show, I should really just relax.” 
 
 That’s really the whole point of this series. We're just a show. We’re here to have fun. Rules will get bent, cars will break, just relax enjoy yourself. If you're reading line by line looking for a 1/10th a second lap timeimprovement, you're going to have a bad time. Aside from safety, not much else really matters. You don't race PPPRS to win, you race til you break. Don’t get too wrapped up or obsessed about podiums, or lap time records. Share tools. Be friends with rival teams. Have rivalries just because it's hilarious. Make friends and be excellent to one another. 
 
-#### 7.7.1 | The "I Ain't Even Mad" Clause
+#### 7.5.3 | The "I Ain't Even Mad" Clause
 
 Feel like breaking a rule? We at the PPPRS take this very seriously; we don't like half assing anything. If you are breaking one of our rules, we encourage you to go full ass, above and beyond the call of duty. We don’t want cheap and sneaky exploits, we want clever. Want to make a 6 wheel racing power wheel? Awesome. DRS inspired SuperCap Must-Go-Faster button? Awesome. So if you feel like taking things too seriously we want you to build something so blissfully impressive, so Adrian Neweyesue clever, or downright SpeedyCop crazy that your rule infraction gets a “I’m not even mad, I’m impressed” reaction from our judges.
 
@@ -227,6 +223,8 @@ The 2014 Power Racing Series is upon us and here's the first official look at ou
 Unlike most real and legitimate racing series, the PPPRS rewards points for two different criteria. The first is your standard run-of-the mill Race points. Yawn. The other is from Moxie points, which is both interesting and frustrating.
 
 This year the points system will reward the BEST 2 culmulative weekend points. That means we take the sum of your points from each weekend you race and tally them towards the championship. If you go to all 3 events you'll be able to throw away your worst weekend. So if you say, blow an engine in one race weekend you won't be out of the championship, pending you attend the other two. It also allows for some of the smaller teams to compete for the championship without having to go to more than two events. If a team is in title contention they must attend the Indiana race to receive any potential prizes (it would be awkward to have a title winner not be present for their trophy presentation)
+
+Maker Faire World New York is the Grand Finale of the entire series. The top 2 teams from each division get an "invite" to this race. East coast teams have an added advantage of being automatically invited, regardless of regular season performance. Teams that race in NYC have all of their points zeroed out at the start of the weekend and the overall winner of the weekend takes the Tesla Cup. 
 
 ### 9.1 | Race Points
 
@@ -270,7 +268,7 @@ For every race there is an Arduino-controlled button board that tallies the vote
 This board responds to one button press with one second delay. This is so you don’t plant yourself or your teammates out there by the board and just sit on the button all day. It should be noted that this is considered a really lazy and not-creative way to cheat, and thus lame. Don’t be a lame hackerspace. The crowd is instructed to reward your spastic and odd behavior and they get tallied up and normalized to 400 points for every “normal” 100 race points each race. So this season we are not messing around, which means you get to mess around on the track. Moxie this season will be very crucial to victory and thus glorious bragging rights. 
 
 ##### 9.2.1.2 | How to Maximize Moxie Points
-300 Bonus (seriously) for the following entry themes. NOTE: these points will be awarded on a sliding scale of effort. (the more time you spend on making these look good, the more points you get. If you duct tape a bunch of cardboard boxes and scream “that’ll do” we will reward you less points):
+Are you a new team? How about an old team looking for some more points? Come here. Closer. Let me tell ya something. It'll be our little secret. You can get 300 bonus points if you do make one of the cars below. Yeah. Seriously. I'm not messing about. Just try it. NOTE: these points will be awarded on a sliding scale of effort. (the more time you spend on making these look good, the more points you get. If you duct tape a bunch of cardboard boxes and scream “that’ll do” we will reward you less points):
 
 * Ghostbuster’s Ecto 1 (must have that annoying horn)
 * Jim’s Dad’s old car: 1977 Cadillac Eldorado (should be large enough for its own zip code)
@@ -288,14 +286,13 @@ This board responds to one button press with one second delay. This is so you do
 
 
 
-
 ## A | Trophies and Awards
 
-### A.1 | The Big Three
+### A.1 | The Big Three Seasonal Awards
 
 The Power Racing Series chucks out 3 big trophies a year. These are designed to be handed down from winner to winner each year. This simply means that If you are from a family with more than one sibling you’ll be able to relate when the trophy is just the right length for your legs but way too tight in the waist. Think of these as the Stanley Cup: you get to “hold” it around for a year and rub it in the face of everyone else until next year. Note: if you keep the damn thing and then never return it you sort of suck. That’s mean. Why would you do that? Didn’t you learn about sharing from Sesame Street?
 
-Also note that if you win the trophy it is your duty to modify it somehow for next year. Add but don’t subtract and try not to set it on fire. Unless it is the Crash-And-Burn trophy, in which case it would be painfully appropriate.
+Also note that if you win the trophy it is your duty to modify it somehow for next year. Add but don’t subtract and try not to set it on fire. Unless it is the Crash-And-Burn trophy, in which case it would be painfully appropriate. Keep in mind you can only win one of these "big 3" trophies. So if you somehow win the Tesla Cup and the Moxie Cup you've got to hand one over to one of the teams just below you. So aim for one of them, because you can't get all of them.
 
 #### A.1.1 | The Tesla Cup (all Points)
 
@@ -309,9 +306,9 @@ You are here to have fun only. You really don’t give a rats backside about goi
 
 If this is the only award you care about we actually don’t know why you are here. You are seriously racing power wheels, just to win? I guess you can do that, I mean it is fine if you want to. You are mad though. You are just a mad, silly person. This trophy is here for those who hard-charged to the front and managed to enter races and win as seriously as possible. Its not that we want to vilify winning above all, it just really confuses us. They’re power wheels, ok?
 
-### A.2 | The Race Medals
+### A.2 | The Event Medals
 
-Every race has its winners and losers. Since this is a “racing series” we are required by the racing gods to reward the folks who manage to be ahead of the losers, be it by chance or sheer will, or something. At the end of each race the top three drivers get to stand on a podium of sorts and say a few words of encouragement for the other teams who just clearly didn’t try hard enough.
+Every race has its winners and losers. Since this is a “racing series” we are required by the racing gods to reward the folks who manage to be ahead of the losers, be it by chance or sheer will, or something. At the end of each race the top three drivers get to stand on a podium of sorts and say a few words of encouragement for the other teams who just clearly didn’t try hard enough. At the end of each race the top three drivers are awarded immediately at the finish line. If you finished in the top three do NOT go back to the pits. Pull up to the timing booth and receive your award. 
 
 #### A.2.1 | The Golden Yes
 
@@ -325,18 +322,18 @@ You are the first loser, but that’s ok. You’re better than most so you get a
 
 What, you get an award too? Geez, I guess so, but you get a  big “no” from us. Also your low-five is down real low, and thus we will pull our hand away in a metaphorical nod to your performance: too slow.
 
-### A.3 | Other Prizes
+### A.3 | The "Per Event" Awards
 
-These are a few random awards we’ve put together over the years to encourage some of the utterly confusing behavior this series has brought into reality. They are yearly rewards and the trophies change in quality every year, just like Fox’s Primetime lineup.
+These are a few random awards we’ve put together over the years to encourage some of the utterly confusing behavior this series has brought into reality. They are yearly rewards and the trophies change in quality every year, just like Fox’s Primetime lineup. As the title suggests these are awarded each race weekend.
 
-#### A.3.1 | Crash and Burn award
+#### A.3.1 | Crash and Burn Award
 
 Congratulations! You have chosen to build an off-road vehicle. The only problem is that the PPPRS is on-road racing series, which means you’ve spent more laps on the tire wall than actually on the track. You also might be Australian and have spent most of your time upside down. Luckily there’s an award for that.
 
-#### A.3.2 | My Pretty Princess
+#### A.3.2 | The Epic Fix Award
 
-This is our Concours D’eleagance. You’ve built a car that actually looks brilliant. It looks so nice that we actually felt bad when Gravedigger plowed it into the wall on the way to winning another Crash & Burn. If you intend to win this award be sure to take a lot of pictures before race day, because she ain’t going to be pretty after we’re done.
+You did what to get this running again? Holy crap. We usually would make fun of somebody trying this yard, but we can't believe how many times you had to fix this heap. You did it though, and the car is limping around the track, barely moving but dammit, you're going to finish. You scrounged parts from random strangers. You broke your transmission three times and still managed to get back on the track. Literally nothing stopped your team. You didn't win, you didn't even look good while doing this, but you managed to pull through in the end. Here's to you, crazy person.
 
-#### A.3.3 | Hockey Dad Cares Too Much
+#### A.3.3 | That is So Amazing I Must Give You an Award
 
-You entered this series to try and win the Chapman. You are also probably the reason why these rules are not the one-page fun fest we once typed up the night before an event. You actually post the mailing list to nit-pick and chew apart the rules that we’ve carefully crafted over many nights of excessive alcohol abuse and chronic pizza consumption. We take our jobs so seriously and you’re a big meanie so we made a trophy to prove how much of a butt you are. It is very likely that this trophy will have a shoddy build quality and still have paint drying. We still love you though. Kiss. Kiss.
+This is our Concours D’eleagance. This is a prized treasure. You've built something so incredible we have to pause and collect our breath. You’ve built a car that actually looks brilliant. It looks or drives so nice that we actually felt bad when some team plowed it into the wall on the way to winning another Crash & Burn. If you intend to win this award be sure to take a lot of pictures before race day, because she ain’t going to be pretty after we’re done.
