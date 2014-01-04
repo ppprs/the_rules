@@ -38,9 +38,13 @@ The total allowable budget for any individual vehicle is $500 USD. This includes
 
 No matter where a team purchases its vehicle (Toys R, Us, craigslist, France, or you stole it) it must conform to PPPRS standards of purchase.
 
-### 2.2 | Standards of Purchase
+### 2.2 | So What Constitutes a "Power Racer?"
 
-The following brands are permitted and recommended for PPPRS: Power Wheels, Peg Perego, and Little Tikes. This includes any other current or former, past or present Fisher-Price brand Power Wheels, as well as Little Tikes Ride On toys. During the course of the season the majority (70%) of the original Power Wheels exterior must remain functionally intact.  Any vehicle that is not of these brands will be subject for review but will most likely be completely fine because we’ve practically permitted piles of garbage for use on the track. Note: Do NOT submit a pile of garbage for use on the track. It is sooooo last year.
+The following brands are permitted and recommended for PPPRS: Power Wheels, Peg Perego, and Little Tikes. This includes any other current or former, past or present Fisher-Price brand Power Wheels, as well as Little Tikes Ride On toys. During the course of the season the majority (70%) of the original Power Wheels exterior must remain ""functionally intact". Any vehicle that is not of these brands will be subject for review but will most likely be completely fine because we’ve practically permitted piles of garbage for use on the track. Note: Do NOT submit a pile of garbage for use on the track. It is sooooo last year.
+
+#### 2.2.1 | The Charles Guan Clause
+
+Above we described guidelines for situations that start with hacking apart a ride-on toy car. Sometimes, in rare instances, the types of children ride-on toys that are available don't fit the style of vehicle of your liking. Perhaps you want to go above and beyond rule bending (see the "I Ain't Even Mad" Clause) Well there's a loophole for you: if your car does not start as a Power Wheel, it must end up being a Power Wheel. So, if you wanted to make build from scratch a Power Wheels-sized Back to the Future Deloreon, and have the time and patience to perfectly craft one to the scale of vehicles we currently race, it will be permitted under the "I Ain't Even Mad" clause. Please note that your vehicle design will be determined legal by the judges, and will be subject to scrunity based on quality of build and overall hilarity. In short, this is not a permit to build go-karts. Please see the Moxie section for ideas.
 
 ### 2.3 | Drivers
 
