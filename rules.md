@@ -109,7 +109,7 @@ Teams are encouraged to be imaginative when decorating and modifying their vehic
 
 ### 2.C | Transponder
 
-Teams will be using transponders for timing and scoring so keep in mind that you want to build your machines to accommodate a clear line directly vertical line of sight at or near the very front of your vehicle. Transponders must be faced upwards. Ensure to notify your drivers that this line-of-sight must be preserved when traveling under our timing bridge at the start/finish line or your lap will not be recorded. Baring that, the transponders are nice, simple and dependable. They will also cost you $20 to rent per race or $50 for the entire season (we accept credit card and paypal) Full tech details will be provided on race day. Just be prepared to attach this to your vehicle.
+Teams will be using transponders for timing and scoring so keep in mind that you want to build your machines to accommodate a clear line directly vertical line of sight at or near the very front of your vehicle. Transponders must be faced upwards. Ensure to notify your drivers that this line-of-sight must be preserved when traveling under our timing bridge at the start/finish line or your lap will not be recorded. Baring that, the transponders are nice, simple and dependable. They will also cost you $20 to rent per race or $50 for the entire season (we accept credit card and paypal). After you pay for a $50 rental the transponder is yours to keep. Full tech details will be provided on race day. Just be prepared to attach this to your vehicle.
 
 ## 3 | Safety Eqiupment
 You are not allowed to race on the track without the following equipment. Seriously, we aren’t screwing around with this. These vehicles may be tiny, but they can be very fast. 
