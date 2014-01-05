@@ -255,7 +255,9 @@ Due to our lack of outright originality and our founder’s unquenchable obsessi
 
 **10th** | *4*
 
-**11th** | *1*
+**11th** | *2*
+
+**12th** | *1*
 
 
 ### 9.2 | Season Points Rules.
