@@ -79,12 +79,12 @@ Contrary to popular assumption mechanical brakes are required equipment. Motor b
 
 All motors must be electrically powered.  All power supplies must range from 12-36 volts RMS maximum input to the motors. Before each race, track officials will test the voltage to the motor of each vehicle.
 #### 2.7.1 Fuses
-No vehicle may have a total peak power consumption of greater than 1440 watts. The current-limiting fuses will be issued to the teams via the sanctioning body. We will be using the LittelFuse MIDI 498 series of fuses. The fuse holder they use is Digi-Key P/N F3094-ND. We recommend you go and buy these specific fuses and install in an easy to access place for servicing place on your vehicle. Remember: it is on you to maintain and replace these fuses. If you blow a fuse during race day, you have to go to the timing and scoring booth and beg us for another, so TEST your vehicles BEFORE race day The follow are the fuses we will be using for the 2014 season and beyond:
+No vehicle may have a total peak power consumption of greater than 1440 watts. The current-limiting fuses will be issued to the teams via the sanctioning body. We will be using the LittelFuse MIDI 498 series of fuses. The fuse holder they use is Digi-Key P/N F3094-ND. We recommend you go and buy these specific fuses and install them in an easy-to-access place for servicing on your vehicle. Remember: it is on you to maintain and replace these fuses. If you blow a fuse during race day, you have to go to the timing and scoring booth and beg us for another, so TEST your vehicles BEFORE race day The follow are the fuses we will be using for the 2014 season and beyond:
 
-* 36v = 40A Fuse Digikey F3089-ND
-* 28.8v = 50A Fuse Digikey F3090-ND
-* 24v = 60A Fuse Digikey F3091-ND
-* 12v = 125A Fuse Digikey F1879-ND 
+* 36v = 40A Fuse (Digikey #F3089-ND)
+* 28.8v = 50A Fuse (Digikey #F3090-ND)
+* 24v = 60A Fuse (Digikey #F3091-ND)
+* 12v = 125A Fuse (Digikey #F1879-ND)
 
 If for whatever reason your machine operates on some funky voltage, your fuse will round down to the nearest number. Vehicles are required to have a fuse installed between their power source and their controller. Fuses will be provided to teams from the Sanctioning Body.
 
