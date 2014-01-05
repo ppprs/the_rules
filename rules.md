@@ -102,7 +102,7 @@ No part of the vehicle may protrude past the dimensions enumerated in this rule.
 Any vehicle disobeying the dimension will be required to conform to the dimensions before it is allowed to race.
 
 ### 2.A | Bumpers
-Power Racing entries to say the least are insanely different. It seems that no matter what restrictions I place on them series you meddling teams find ways to be precious little snowflakes. There is however one thing that needs to be the same bumper height. All teams are required to have some sort of front and rear bumper-like structure that is between 4 and 6 inches high. The bumpers should be firmly attached (or welded) to your frame. We strongly encourage teams to soften the edges of the bumpers up in some way, perhaps using strips of rubber. I don't know. Do what you want. Just makes sure they are there. The track marshals are getting tired of having to pry cars off of each other during collisions. 
+Power Racing entries to say the least are insanely different. It seems that no matter what restrictions I place on them series you meddling teams find ways to be precious little snowflakes. There is however one thing that needs to be the same bumper height. All teams are required to have some sort of front and rear bumper-like structure that is between 4 and 6 inches from the ground. The bumpers should be firmly attached (or welded) to your frame. We strongly encourage teams to soften the edges of the bumpers up in some way, perhaps using strips of rubber. I don't know. Do what you want. Just makes sure they are there. The track marshals are getting tired of having to pry cars off of each other during collisions. 
 
 ### 2.B | Team Secrets
 
@@ -114,7 +114,7 @@ Teams are encouraged to be imaginative when decorating and modifying their vehic
 
 ### 2.D | Transponder
 
-Teams will be using transponders for timing and scoring so keep in mind that you want to build your machines to accommodate a clear line directly vertical line of sight at or near the very front of your vehicle. Transponders must be faced upwards. Ensure to notify your drivers that this line-of-sight must be preserved when traveling under our timing bridge at the start/finish line or your lap will not be recorded. Baring that, the transponders are nice, simple and dependable. They will also cost you $20 to rent per race or $50 for the entire season (we accept credit card and paypal). After you pay for a $50 rental the transponder is yours to keep. Full tech details will be provided on race day. Just be prepared to attach this to your vehicle.
+Teams will be using transponders for timing and scoring so keep in mind that you want to build your machines to accommodate a clear line directly vertical line of sight at or near the very front of your vehicle. Transponders must be faced upwards. Ensure to notify your drivers that this line-of-sight must be preserved when traveling under our timing bridge at the start/finish line or your lap will not be recorded. Baring that, the transponders are nice, simple and dependable. They will also cost you $10 to rent per race or $50 for the entire season (we accept credit card and paypal). After you pay for a $50 rental the transponder is yours to keep. Full tech details will be provided on race day. Just be prepared to attach this to your vehicle.
 
 ## 3 | Safety Eqiupment
 You are not allowed to race on the track without the following equipment. Seriously, we aren’t screwing around with this. These vehicles may be tiny, but they can be very fast. 
