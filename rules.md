@@ -133,7 +133,7 @@ Qualifying this year will include a mandatory brake test. You can read about thi
 Yellow flags are important. As a driver you should be familiar with the significance of the color yellow with slowing down. A large truck horn will sound off along with a yellow flag to signify a caution. When a caution comes out all cars are to remain in the same position as one another. No passing is allowed unless notified to do so by a track marshal. Do not accelerate or drive near track marshalls. Keep your eyes peeled for track marshals attempting to clear the track of obstructions. When the horn sounds TWICE regular lap speeds will continue. This will be signified by a green flag. I could not possibly explain this to you easier, yet somehow somebody every year manages to screw this up. Most of you own cars, right? Even if you don't, you could always find a basic traffic tutorial on every other epsisode of Seasame Street. 
 
 ### 3.5 | Vehicle Egress
-In the event of an accident, you must be able to leave your vehicle completely in 7 seconds or less. This is to prevent any issues that may arise from potential fires or overheating components. DO NOT build a car that is difficult to get out of. It is permitted for the entrance of a car to be a hastle, as all of us are getting too old for this crap. 
+In the event of an accident, you must be able to leave your vehicle completely in 5 seconds or less. This is to prevent any issues that may arise from potential fires or overheating components. DO NOT build a car that is difficult to get out of. It is permitted for the entrance of a car to be a hastle, as all of us are getting too old for this crap. 
 
 
 ## 4 | Excluded Team Budget Items
