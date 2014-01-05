@@ -79,7 +79,7 @@ Contrary to popular assumption mechanical brakes are required equipment. Motor b
 
 All motors must be electrically powered.  All power supplies must range from 12-36 volts RMS maximum input to the motors. Before each race, track officials will test the voltage to the motor of each vehicle.
 #### 2.7.1 Fuses
-No vehicle may have a total peak power consumption of greater than 1440 watts. The following current-limiting fuses will be issued for the following voltages:
+No vehicle may have a total peak power consumption of greater than 1440 watts. The following current-limiting fuses will be issued for the following voltages. Technical details about the fuses, their type, and connections will be placed here the moment Jeremey gets hopped up on enough caffiene to research this for me:
 
 * 36v = 40A Fuse
 * 28.8v = 50A Fuse
