@@ -210,12 +210,12 @@ The 2014 Power Racing Series is upon us and here's the first official look at ou
 
     Our Landmark race returns yet again! The Detroit circuit is a bumpy high speed affair that will challenge driver skill more than anything else. The track usually features long sweeping corners that necessitate finesse and driver rhythm.
 
-*    Maker Faire Fort Wayne, IN, Saturday September 14th, 2014
+*    Maker Faire Fort Wayne, IN, Saturday September 13th, 2014
 
 
 **EAST DIVISION**
 
-*	Charlotte, NC Saturday, June 9th, 2014
+*	Charlotte, NC Saturday, June 7th, 2014
 
 *	NYC World Maker Faire, Queens, NY, Saturday & Sunday September 20th & 21st, 2014
           
