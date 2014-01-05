@@ -224,7 +224,7 @@ The 2014 Power Racing Series is upon us and here's the first official look at ou
 
 Unlike most real and legitimate racing series, the PPPRS rewards points for two different criteria. The first is your standard run-of-the mill Race points. Yawn. The other is from Moxie points, which is both interesting and frustrating.
 
-This year the points system will reward the BEST 2 culmulative weekend points. That means we take the sum of your points from each weekend you race and tally them towards the championship. If you go to all 3 events you'll be able to throw away your worst weekend. So if you say, blow an engine in one race weekend you won't be out of the championship, pending you attend the other two. It also allows for some of the smaller teams to compete for the championship without having to go to more than two events. If a team is in title contention they must attend the Indiana race to receive any potential prizes (it would be awkward to have a title winner not be present for their trophy presentation)
+This year the points system will reward the BEST 2 culmulative weekend points. That means we take the sum of your points from each weekend you race and tally them towards the championship. If you go to all events you'll be able to throw away your worst weekend. So if you say, blow an engine in one race weekend you won't be out of the championship, pending you attend the other two. It also allows for some of the smaller teams to compete for the championship without having to go to more than two events. If a team is in title contention they must attend the Indiana race to receive any potential prizes (it would be awkward to have a title winner not be present for their trophy presentation)
 
 Maker Faire World New York is the Grand Finale of the entire series. The top 2 teams from each division get an "invite" to this race. East coast teams have an added advantage of being automatically invited, regardless of regular season performance. Teams that race in NYC have all of their points zeroed out at the start of the weekend and the overall winner of the weekend takes the Tesla Cup. 
 
@@ -258,7 +258,7 @@ Due to our lack of outright originality and our founder’s unquenchable obsessi
 **11th** | *1*
 
 
-### 9.2 | Season points rules
+### 9.2 | Season Points Rules.
 #### 9.2.1 | Moxie Points
 
 Moxie is that little extra spice that levels the playing field. Not only can you win race points, but you can also entice and rile the crowd up and win points from them. It will be the job of your team to find ways to garner audience attention and keep it over your competitors. This is the ultimate pursuit of the weird. Giant boom-box cars, Lucha masked racers, pre-race dance party and confetti cannons are all par for the course. Consider this the social engineering section of your exam. Some teams will write this off, but we at PPPRS think you should take heed: this is where real champions are  crowned. Under develop your car against your rival hackerspace? Easy, gain those points back by dressing up as a chicken. Your odds to win are good if your goods are odd. Consider it Halloween in July, and you have to get more candy bars than that kid next door.
