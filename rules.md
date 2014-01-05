@@ -73,7 +73,7 @@ Finally, no capictor banks for providing additional vehicle power. That's just t
 
 ### 2.6 | Brakes
 
-Contrary to popular assumption mechanical brakes are required equipment. Motor braking must not be the only method of braking. Ground contact brakes, (aka a stick with rubber stapled to it that rubs against the ground) are banned. Ground contact brakes, (aka a stick with rubber stapled to it that rubs against the ground) are banned.Ground contact brakes, (aka a stick with rubber stapled to it that rubs against the ground) are banned. Mechanical brakes must be capable of stopping the vehicle in full and comply with our qualifying round. See qualifying for specifications.
+Contrary to popular assumption mechanical brakes are required equipment. Motor braking must not be the only method of braking. Ground contact brakes, (aka a stick with rubber stapled to it that rubs against the ground) are banned. Ground contact brakes, (aka a stick with rubber stapled to it that rubs against the ground) are banned. One last time read it out loud now: Ground contact brakes, (aka a stick with rubber stapled to it that rubs against the ground) are banned. Also, ground contact brakes are banned. Mechanical brakes must be capable of stopping the vehicle in full and comply with our qualifying round. See qualifying for specifications.
 
 ### 2.7 | Motors
 
