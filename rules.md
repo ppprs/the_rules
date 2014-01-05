@@ -3,7 +3,7 @@
 ## 1 | Teams
 ### 1.1 | Team Structure
 
-Hackerspace teams may contain a minimum of three members (1 driver, 1 mechanic, and 1 volunteer). There is no upper limit to how many members a team may have. For example, Sector 67 will yearly submit a team roughly the population of the state of California. No person may be on more than one team. Each team may enter as many cars as they wish to use during a season though it is suggested that they submit no more than two. Each team is required to modify and repair them as necessary. Hackerspaces are not limited to a specific number of teams. Each event will be limited to a maximum of 24 entries. If for some reason more than 24 teams show up, we will host a legitimate qualifying round, where the least creative and/or slowest teams will be subject to the embarrassment of failing to qualify an event headlining children’s toys.
+Hackerspace teams may contain a minimum of three members (1 driver, 1 mechanic, and 1 volunteer). There is no upper limit to how many members a team may have. For example, Sector 67 will yearly submit a team roughly the population of the state of California. No person may be on more than one team. Each team may enter as many cars as they wish to use during a season though it is suggested that they submit no more than two. Each team is required to modify and repair them as necessary. Hackerspaces are not limited to a specific number of teams. Each event will be limited to a maximum of 24 entries. If for some reason more than 24 entrants show up, we will host a legitimate qualifying round, where the least creative and/or slowest teams will be subject to the embarrassment of failing to qualify an event headlining children’s toys.
 
 ### 1.2 | The Team Volunteer
 
