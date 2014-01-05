@@ -334,7 +334,7 @@ Congratulations! You have chosen to build an off-road vehicle. The only problem 
 
 #### A.3.2 | The Epic Fix Award
 
-You did what to get this running again? Holy crap. We usually would make fun of somebody trying this yard, but we can't believe how many times you had to fix this heap. You did it though, and the car is limping around the track, barely moving but dammit, you're going to finish. You scrounged parts from random strangers. You broke your transmission three times and still managed to get back on the track. Literally nothing stopped your team. You didn't win, you didn't even look good while doing this, but you managed to pull through in the end. Here's to you, crazy person.
+You did what to get this running again? Holy crap. We usually would make fun of somebody trying this hard, but we can't believe how many times you had to fix this heap. You did it though, and the car is limping around the track, barely moving but dammit, you're going to finish. You scrounged parts from random strangers. You broke your transmission three times and still managed to get back on the track. Literally nothing stopped your team. You didn't win, you didn't even look good while doing this, but you managed to pull through in the end. Here's to you, crazy person.
 
 #### A.3.3 | That is So Amazing I Must Give You an Award
 
