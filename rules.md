@@ -202,7 +202,7 @@ The 2014 Power Racing Series is upon us and here's the first official look at ou
 
 **CENTRAL DIVISION**
 
-*   Maker Faire Kansas City, KC Saturday & Sunday Date TBA
+*   Maker Faire Kansas City, KC Saturday & Sunday June 28th & 29th, 2014
 
     First round of the central division series  Expect the track to be tight, slow corners followed by mid-length straits. The cars with the best handling will show great promise here.
 
