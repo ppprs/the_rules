@@ -102,7 +102,7 @@ No part of the vehicle may protrude past the dimensions enumerated in this rule.
 Any vehicle disobeying the dimension will be required to conform to the dimensions before it is allowed to race.
 
 ### 2.A | Bumpers
-Power Racing entries to say the least are insanely different. It seems that no matter what restrictions I place on them series you meddling teams find ways to be precious little snowflakes. There is however one thing that needs to be the same bumper height. All teams are required to have some sort of front and rear bumper-like structure that is between 4 and 6 inches high. The bumpers should be firmly attached (or welded) to your frame. We strongly encourage teams to soften the edges of the bumpers up in some way, perhaps using strips of rubber. I don't know. Do what you want. Just makes sure they are there. The track marshals are getting tired of having to pry cars off of each other during collisions. 
+Power Racing entries to say the least are insanely different. It seems that no matter what restrictions I place on them series you meddling teams find ways to be precious little snowflakes. There is however one thing that needs to be the same bumper height. All teams are required to have some sort of front and rear bumper-like structure that is between 4 and 6 inches from the ground. The bumpers should be firmly attached (or welded) to your frame. We strongly encourage teams to soften the edges of the bumpers up in some way, perhaps using strips of rubber. I don't know. Do what you want. Just makes sure they are there. The track marshals are getting tired of having to pry cars off of each other during collisions. 
 
 ### 2.B | Team Secrets
 
