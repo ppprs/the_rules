@@ -97,7 +97,7 @@ All motor controller solutions must be directly connected to a dead man switch o
 
 ### 2.9 | Vehicle Size
 
-The vehicle may not exceed 60” long by 35” wide. Seat height may not be lower than the axle height.  Over all height is restricted to 72” including the height of the driver while in the seated position. (These dimensions represent roughly the size of the Jeep Hurricane, the largest Power Wheels vehicle on the market as of 2014)
+The vehicle may not exceed 62” long by 36” wide. Seat height may not be lower than the axle height.  Over all height is restricted to 72” including the height of the driver while in the seated position. (These dimensions represent roughly the size of the Doge Ram, the largest Power Wheels vehicle on the market as of 2014)
 No part of the vehicle may protrude past the dimensions enumerated in this rule.  All vehicles will be measured by track officials before each race.
 Any vehicle disobeying the dimension will be required to conform to the dimensions before it is allowed to race.
 
