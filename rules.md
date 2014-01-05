@@ -10,7 +10,7 @@ Hackerspace teams may contain a minimum of three members (1 driver, 1 mechanic, 
 Teams are required to submit at least one team member as a volunteer of the Power Racing Series for each race weekend they participate. Teams should be prepared to provide one individual who will work on your car the least and spend most of their time helping out with flag marshals, track set up and race-day operations. NOTE: if your team fails to supply a volunteer that team will be fined a $50 fee once per race weekend. Do not select your driver as volunteer, unless you don’t feel like racing. We suggest you pick somebody from the team who is enthusiastic but tends to not have crucial technical skills (re: only person who knows how to fix the car) for your team. For amusement we condone the selection of the team member you dislike the most.
 
 Team volunteers are essential to keeping the series running and ensuring the safety and timeliness of the event. The more volunteers we have the more smoothly the event will run. On race day the volunteers will be given instruction to which jobs they have to commit to and when they can switch off with other volunteers to go work on their cars. Do not skimp out on sending us volunteers because the minute you complain about something “not going on time” or “you should do it like x or y” my answer will be “where’s your volunteer?” Not sending a volunteer means you are short $50 per race weekend and waives your right to complain. Yeah. I just said that. That’s a rule now.
-Oh and all of our volunteers will get a fancy PPPRS sanctioned crew tshirt. It will be fancy I swear.
+Oh and all of our volunteers will get a fancy tshirt. It will be fancy I swear.
 
 ### 1.3 | Team Labeling & Visibility
 #### 1.3.1 | Car Numbers
