@@ -206,7 +206,7 @@ The 2014 Power Racing Series is upon us and here's the first official look at ou
 
     First round of the central division series  Expect the track to be tight, slow corners followed by mid-length straits. The cars with the best handling will show great promise here.
 
-*   Maker Faire Detroit, Dearborn, MI Saturday & Sunday Date TBA
+*   Maker Faire Detroit, Dearborn, MI Saturday & Sunday Date July 26th & 27th, 2014
 
     Our Landmark race returns yet again! The Detroit circuit is a bumpy high speed affair that will challenge driver skill more than anything else. The track usually features long sweeping corners that necessitate finesse and driver rhythm.
 
