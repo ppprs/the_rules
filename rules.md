@@ -19,17 +19,17 @@ Due to our fancy and super serious scoring system it is ABSOLUTELY important to 
 
 #### 1.3.2 | Team Label for the Moxie Board
 
-Since this is a fancy hackerspace event we have a fancy home-brewed arduino controlled moxie points system. We have this giant button board assembled that will be floating around the crowds during the whole race. There are slots for each spot that is roughly 1.75 in x 6in in size for your name, next to a button that patrons can press. See Moxie section for clarification of what Moxie is.
+Since this is a fancy hackerspace event we have a fancy home-brewed arduino controlled moxie points system. We have this giant button board assembled that will be floating around the crowds during the whole race. There are slots for each spot that is roughly 1.75 in x 6in in size for your name, next to a button that patrons can press. See Moxie section for clarification of Moxie.
 
-We are going to ask you (the teams) to make this label. It's up to you to make it readable and legible. It must contain your car #, Your Team Name and if you want your Hackerspace. Keep in mind the better presented your Label is, the better representation you get. Be creative but understandable.
+We are going to ask you (the teams) to make this label. It's up to you to make it readable and legible. It must contain your car #, Your Team Name and if you want your Hackerspace. Keep in mind the better presented your Label is, the better representation you get. Be creative but understandable. Many, MANY teams screw this up. You want to label your team cleanly and carefully. Keep in mind you are trying to appeal to complete strangers who just wandered up to the track; they don't know who you are. They never will. You want to make sure either verbally or visually that pressing your button affects your car on the track. If your car is blue, make your label blue. If there's a quirk it has, make sure the audience knows it (e.g. It's the James Bond car). You will thank me later for this.
 
 #### 1.3.3 | Team Flag and other Ceremonials
 
-If you are a hackerspace, please bring along a flag that you can raise and wave to the crowds. If you are clever enough to be a winning team, you will be able to stand on the podium and wave it to the confused crowd. If we really have our stuff together this year we will display your flag on the very top showing everyone just how awesome you are. We should also have carbonated pink lemonade instead of champagne this year, so you can spray your more favorite or least favorite competitor in the face with the stuff. 
+If you are a hackerspace, please bring along a flag that you can raise and wave to the crowds. You don't have to do this, but it has proven to help team earn more points from the crowd. Identity is key for your Moxie championship hopes (see points below for clarification). If you are clever enough to be a winning team, you will be able to stand on the podium and wave it to the confused crowd. If we really have our stuff together this year we will display your flag on the very top showing everyone just how awesome you are. We should also have carbonated pink lemonade instead of champagne this year, so you can spray your more favorite or least favorite competitor in the face with the stuff. 
 
 ### 1.4 | Team Budget
 
-The total allowable budget for any individual vehicle is $500 USD. This includes any and all equipment/devices performance/propulsion vehicle as it stands on the starting grid. This does not include all the support equipment (spare batteries, team transport, tools etc) It also includes any required equipment to make the vehicle legal for PPPRS racing, sans safety equipment.
+The total allowable budget for any individual vehicle is $500 USD. This includes any and all equipment/devices performance/propulsion vehicle as it stands on the starting grid. This does not include all the support equipment (spare batteries, team transport, tools etc). In short, everything that goes into your car must equal $500 EXCEPT the battery total cost, cost of operations and most importantnly ALL safety equipment.
 
 
 
