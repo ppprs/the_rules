@@ -8,7 +8,8 @@ Hackerspace teams must contain a minimum of three members (1 driver, 1 mechanic,
 ### 1.2 | The Team Volunteer
 
 Teams are required to submit at least one volunteer to the Power Racing Series for each race weekend in which they participate. This volunteer will work on your car the least and spend most of their time helping out with flag marshalling, track set up and race day operations. NOTE: if you fail to supply a volunteer, your team will be fined a $50 fee once per race weekend. Do not select your driver as your volunteer, unless you don’t feel like racing. We suggest you pick somebody from the team who is enthusiastic but tends not to have the crucial technical skills necessary for your team (so don’t give us the only team member who knows how to fix your car).
- For amusement, we condone the selection of the team member you dislike the most. Team volunteers are essential to keeping the series running and ensuring the safety and timeliness of the event. The more volunteers we have, the more smoothly the event will run. On race day, the volunteers will be given instructions for the job(s) they will need to perform, as well as a schedule of times they will need to commit to volunteering.  Do not skimp out on sending us volunteers, because the minute you complain about something “not happening on time” or “you should do it like x or y,” my answer will be “where’s your volunteer?” Not sending a volunteer means you are short $50 per race weekend and waives your right to complain. Yeah. I just said that. That’s a rule now. Oh, and all of our volunteers will get a fancy t-shirt. It will be fancy, I swear.
+
+For amusement, we condone the selection of the team member you dislike the most. Team volunteers are essential to keeping the series running and ensuring the safety and timeliness of the event. The more volunteers we have, the more smoothly the event will run. On race day, the volunteers will be given instructions for the job(s) they will need to perform, as well as a schedule of times they will need to commit to volunteering.  Do not skimp out on sending us volunteers, because the minute you complain about something “not happening on time” or “you should do it like x or y,” my answer will be “where’s your volunteer?” Not sending a volunteer means you are short $50 per race weekend and waives your right to complain. Yeah. I just said that. That’s a rule now. Oh, and all of our volunteers will get a fancy t-shirt. It will be fancy, I swear.
 
 ### 1.3 | Team Labeling & Visibility
 #### 1.3.1 | Car Numbers
@@ -60,10 +61,14 @@ The PPPRS permits use of the following chemistries:
 * NiMh
 
 LiPo is NOT permitted. All other lithium battery brands not listed here will require approval by the Sanctioning Body. Batteries are worth half their fair market value towards the total of your $500 budget. This represents the batteries that are present in the machine on the race grid. While the spare batteries in the pits are exempt from the overall $500 limit, they will still count in your budget when in use on the track. No single battery pack shall result in pushing the car’s budget above $500.
- Though not required, PPPRS heartily encourages teams to bring anywhere from 2 to 5 charged batteries with chargers to each race weekend. There is no limit to the number of batteries PPPRS allows, as long as it fits within the team’s budget. PPPRS strongly urges teams to consider their vehicle’s performance and run time when deciding how many batteries they will need for at least three 20-minute races and one 75-minute race per weekend. Keep in mind that with limited windows of downtime between races, you will not have enough time to fully recharge a battery. Also note that battery changes are permitted during the 75-minute endurance race, which is always the last race of the weekend. We encourage you to practice swift yet safe battery changes in order to prepare for race day conditions.
-   Due to the inherent risk posed by the use of batteries, particularly in the event of a flip over, teams who choose to participate in PPPRS races are accepting the full responsibility of ensuring the safe application of their batteries. Batteries must be secured on the vehicle in such a way that a flip over will not remove the batteries from the chassis. Teams should test this before race weekend. If a team fails to properly secure batteries to their vehicle, they will not be permitted on the track and will face a possible fine, the amount of which will be determined at random by the judges. In short, don't screw this up.
-  Wires must be gauged properly in regards to power output, and the responsibility of electrical circuitry will be on the teams. Teams that fail to uphold safe standards will be penalized or prohibited from competing. Teams that use Lithium packs will be required to provide PPPRS personnel with a means of extinguishing the packs in the unlikely but still possible event that they catch fire. Sand would be nice, just in case. PPPRS officials will not supply spare batteries or chargers to the teams.
-  Finally, there are no capictor banks for providing additional vehicle power permitted. That's just too unsafe. Even for us.
+
+Though not required, PPPRS heartily encourages teams to bring anywhere from 2 to 5 charged batteries with chargers to each race weekend. There is no limit to the number of batteries PPPRS allows, as long as it fits within the team’s budget. PPPRS strongly urges teams to consider their vehicle’s performance and run time when deciding how many batteries they will need for at least three 20-minute races and one 75-minute race per weekend. Keep in mind that with limited windows of downtime between races, you will not have enough time to fully recharge a battery. Also note that battery changes are permitted during the 75-minute endurance race, which is always the last race of the weekend. We encourage you to practice swift yet safe battery changes in order to prepare for race day conditions.
+
+Due to the inherent risk posed by the use of batteries, particularly in the event of a flip over, teams who choose to participate in PPPRS races are accepting the full responsibility of ensuring the safe application of their batteries. Batteries must be secured on the vehicle in such a way that a flip over will not remove the batteries from the chassis. Teams should test this before race weekend. If a team fails to properly secure batteries to their vehicle, they will not be permitted on the track and will face a possible fine, the amount of which will be determined at random by the judges. In short, don't screw this up.
+
+Wires must be gauged properly in regards to power output, and the responsibility of electrical circuitry will be on the teams. Teams that fail to uphold safe standards will be penalized or prohibited from competing. Teams that use Lithium packs will be required to provide PPPRS personnel with a means of extinguishing the packs in the unlikely but still possible event that they catch fire. Sand would be nice, just in case. PPPRS officials will not supply spare batteries or chargers to the teams.
+
+Finally, there are no capictor banks for providing additional vehicle power permitted. That's just too unsafe. Even for us.
 
 ### 2.6 | Brakes
 
@@ -130,12 +135,14 @@ In the event of an accident, you must be able to leave your vehicle completely i
 ## 4 | Excluded Team Budget Items
 
 After years of complaints, we have constructed a list of items that are not included in the $500 budget. This is also known as the “region of extravagant cheating” and usually features some of our more creative methods of bookkeeping.
- The $500 limit does NOT include the cost for safety equipment or safety features such as helmets, brakes, kill switches, or harnesses. Support equipment such as spare/secondary battery packs, replacement parts or pit tools are also excluded from costs. Additionally, mechanical throttles, or the physical components to a throttle, are exempt from the budget. Final cost of the machine does NOT account for the initial cost of the Power Wheel purchased used or new plus shipping costs or tax. Any spare parts or extra batteries kept in pit lane do NOT count to your $500 budget. Batteries will be measured at half of their original fair market value in regards to the overall budget. Be prepared to argue and support your battery selection with proof of said fair market value; “that guy down the street” who “totally sells these online everywhere for that cost” will not cut it. Prove it.
+
+The $500 limit does NOT include the cost for safety equipment or safety features such as helmets, brakes, kill switches, or harnesses. Support equipment such as spare/secondary battery packs, replacement parts or pit tools are also excluded from costs. Additionally, mechanical throttles, or the physical components to a throttle, are exempt from the budget. Final cost of the machine does NOT account for the initial cost of the Power Wheel purchased used or new plus shipping costs or tax. Any spare parts or extra batteries kept in pit lane do NOT count to your $500 budget. Batteries will be measured at half of their original fair market value in regards to the overall budget. Be prepared to argue and support your battery selection with proof of said fair market value; “that guy down the street” who “totally sells these online everywhere for that cost” will not cut it. Prove it.
 
 ## 5 | Enforcement of Cost Rules & Penalties
 
 In the event that PPPRS officials or a majority of teams believe a team has greatly exceed the $500 limit, they will be deemed suspect and are at risk of a PPPRS buyout. PPPRS officials comprising of our team-submitted volunteers and event organizers will determine if teams have exceeded the budget and hold all rights to purchase a team’s vehicle for $500. By entering into an event, a team consents that their vehicle could potentially be bought out at the end of the event for $500. So don’t throw a fit if this actually happens. A team may redeem their car and re-enter in the next event if they agree to remove the suspected over-budget component(s).
- If the panel of officials determine the car to infringe on certain rules or bend said rules to a position that is beyond “the spirit of the series,” then a completely arbitrary, painful, and time consuming penalty will be administered. This penalty will most likely be made up on the spot, and would require considerable bribery (i.e. donations to the series) to lift.  Still reading these? Good. There’s more of that sort of tomfoolery further down the list. Section 7.2.2, The Spirit of the Series Clause, is a summary of the goals of PPPRS and represents the key tenets that champion fairness in the series and the overall idea that no one should take this too seriously. Please see Section 7.2.2 for further drilling of this concept into your damn clever-yet-stubborn-as-hell brains.
+
+If the panel of officials determine the car to infringe on certain rules or bend said rules to a position that is beyond “the spirit of the series,” then a completely arbitrary, painful, and time consuming penalty will be administered. This penalty will most likely be made up on the spot, and would require considerable bribery (i.e. donations to the series) to lift.  Still reading these? Good. There’s more of that sort of tomfoolery further down the list. Section 7.2.2, The Spirit of the Series Clause, is a summary of the goals of PPPRS and represents the key tenets that champion fairness in the series and the overall idea that no one should take this too seriously. Please see Section 7.2.2 for further drilling of this concept into your damn clever-yet-stubborn-as-hell brains.
 
 ## 6 | Vehicle/Team Sponsorship
 
@@ -179,7 +186,6 @@ Feel like breaking a rule? We at the PPPRS take rule breaking very seriously, an
 
 The 2014 Power Racing Series is upon us and here's the first official look at our upcoming race schedule.
 
-
 **WEST DIVISION**
 
 *   Maker Faire San Mateo, CA Saturday & Sunday May 17th & 18th, 2014
@@ -198,7 +204,6 @@ The 2014 Power Racing Series is upon us and here's the first official look at ou
 
 *    Maker Faire Fort Wayne, IN, Saturday September 13th, 2014
 
-
 **EAST DIVISION**
 
 *  Charlotte, NC Saturday, June 7th, 2014
@@ -207,13 +212,13 @@ The 2014 Power Racing Series is upon us and here's the first official look at ou
 
    Final race of the year and championship race. This one is for all the marbles. The winners of each division will be invited to attend this race against the east coast teams.
 
-
-
 ## 9 | Points: How do they work?
 
 Unlike most real and legitimate racing series, the PPPRS awards points in two arenas. The first is your standard run-of-the mill race points. Yawn. The other is from Moxie points, which is both interesting and frustrating.
- This year, the points system will reward the BEST 2 culmulative weekend points. That means we take the sum of your points from your best 2 race weekends and tally them towards the championship. If you go to more than 2 events, you'll be able to throw away your worst weekend(s). So, if you say blow an engine in one race weekend, you won't be out of the championship, provided you attend two others. It also allows for some of the smaller teams to compete for the championship without having to go to more than two events. If a team is in title contention, they must attend the Indiana race to receive any potential prizes, since Fort Wayne is the last race before the championship weekend in New York. It would be awkward for us to have a title winner not be present for their trophy presentation, and we would like to avoid awkwardness. We don’t handle it well.
-  Maker Faire World New York is the Grand Finale of the entire series. The top 2 teams from each division get an "invite" to this race. East coast teams have an added advantage of being automatically invited, regardless of regular season performance. Teams that race in NYC have all of their points zeroed out at the start of the weekend and the overall winner of the weekend takes the Tesla Cup.
+
+This year, the points system will reward the BEST 2 culmulative weekend points. That means we take the sum of your points from your best 2 race weekends and tally them towards the championship. If you go to more than 2 events, you'll be able to throw away your worst weekend(s). So, if you say blow an engine in one race weekend, you won't be out of the championship, provided you attend two others. It also allows for some of the smaller teams to compete for the championship without having to go to more than two events. If a team is in title contention, they must attend the Indiana race to receive any potential prizes, since Fort Wayne is the last race before the championship weekend in New York. It would be awkward for us to have a title winner not be present for their trophy presentation, and we would like to avoid awkwardness. We don’t handle it well.
+
+Maker Faire World New York is the Grand Finale of the entire series. The top 2 teams from each division get an "invite" to this race. East coast teams have an added advantage of being automatically invited, regardless of regular season performance. Teams that race in NYC have all of their points zeroed out at the start of the weekend and the overall winner of the weekend takes the Tesla Cup.
 
 ### 9.1 | Race Points
 
@@ -256,7 +261,8 @@ Moxie is that little extra spice that levels the playing field. Not only can you
 ##### 9.2.1.1 | How Moxie is Counted
 
 An Arduino-controlled button board, the Moxie Board, tallies the votes of members of the public during races. The crowd is instructed to reward your spastic and odd behavior by pressing the button by your team’s label. Next to each button is a 6x1.75 inch piece of space that is reserved for your team name and number. You are in charge of making a plaque that occupies this space and identifies who you are to the crowd. You can make it as fancy as you’d like, it can be lit up (you’ll have to power it on your own), reflective, whatever, as long as it has the name of your team and your vehicle number. I won’t begin to lecture you on how many people royally screw this bit up. Do not do a last minute job on this one because it is the first thing the crowd sees when they are about to vote for you. There’s nothing like setting your car on fire to the applause of an audience only to realize that you used duct tape and silver sharpie to identify yourself on the board and now no one knows who you are.  This board responds to one button press with a one second delay. This is so you don’t plant yourself or your teammates out there by the board and just sit on the button all day. It should be noted that this is considered a really lazy and not-creative way to cheat, and thus lame. Don’t be a lame team.
-   Moxie points will always total 400 per race. These 400 points are divided among the teams according to the percentage of button presses received from the crowd. Moxie points are added to race points to determine teams’ overall winningness. This season we are not messing around, which means you get to mess around on the track. Moxie will be very crucial to your potential victory and glorious bragging rights.
+
+Moxie points will always total 400 per race. These 400 points are divided among the teams according to the percentage of button presses received from the crowd. Moxie points are added to race points to determine teams’ overall winningness. This season we are not messing around, which means you get to mess around on the track. Moxie will be very crucial to your potential victory and glorious bragging rights.
 
 ##### 9.2.1.2 | How to Maximize Moxie Points
 Are you a new team? How about an old team looking for some more points? Come here. Closer. Let me tell ya something. It'll be our little secret. You can get up to 300 bonus points if you make one of the cars below. Yeah. Seriously. I'm not messing around. Just try it. NOTE: these points will be awarded on a sliding scale of effort, as per the discretion of the judges. The more time you spend on making these look good, the more points you get. If you duct tape a bunch of cardboard boxes and scream “THAT’LL DO,” we will reward you fewer points. Without further ado, here are the cars that could earn you up to 300 bonus points:
@@ -275,14 +281,13 @@ Are you a new team? How about an old team looking for some more points? Come her
 * Tiny replica Formula 1 car. Specifically the 1976 Tyrrel P34 Six Wheeler.
 * Car built entirely out of LEGOs
 
-
-
 ## A | Trophies and Awards
 
 ### A.1 | The Big Three Seasonal Awards
 
 The Power Racing Series chucks out 3 big trophies a year. These are designed to be handed down from winner to winner each year. So, if you are from a family with more than one kid, you’ll be able to understand when the trophy is just the right length for your legs but way too tight in the waist. Think of these as the Stanley Cup: you get to “hold” it for a year and rub it in the face of everyone else until next year. Note: if you keep the damn thing and then never return it you sort of suck. That’s mean. Why would you do that? Didn’t you learn about sharing from Sesame Street?
- Also note that if you win the trophy, it is your duty to modify it somehow for next year. Add to it but don’t subtract, and try not to set it on fire. Unless it is the Crash-And-Burn trophy, in which case it would be painfully appropriate. Keep in mind that you can only win one of these "big 3" trophies. So if you somehow win the Tesla Cup and the Moxie Cup, you've got to hand one over to one of the teams just below you. So aim for one of them, because you can't get all of them.
+
+Also note that if you win the trophy, it is your duty to modify it somehow for next year. Add to it but don’t subtract, and try not to set it on fire. Unless it is the Crash-And-Burn trophy, in which case it would be painfully appropriate. Keep in mind that you can only win one of these "big 3" trophies. So if you somehow win the Tesla Cup and the Moxie Cup, you've got to hand one over to one of the teams just below you. So aim for one of them, because you can't get all of them.
 
 #### A.1.1 | The Tesla Cup (all Points)
 
@@ -306,7 +311,7 @@ You are Mr/Ms Race Winner. You get a big ol’ Yes from us! You also get a hi-fi
 
 #### A.2.2 | The Silver Ok
 
-You are the first loser, but that’s ok. You’re better than most so you get a low-five
+You are the first loser, but that’s ok. You’re better than most so you get a low-five.
 
 #### A.2.3 | The Bronze No
 
